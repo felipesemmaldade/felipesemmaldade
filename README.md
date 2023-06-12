@@ -15,7 +15,21 @@ turma do 2 ano sesc - informatica
 
 <br>
 **github**
+1. aula1
+2. aula2
+3. aula3
+
 _github_
+
+-[] opçao1
+-[] opçao2
+-[] opçao3
+
+#TITULO 1
+***
+[senac](https://www.senac.com.br](https://www.senac.br/)
+
+
 
 <!--
 **felipesemmaldade/felipesemmaldade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
