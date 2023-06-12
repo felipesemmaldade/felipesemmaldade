@@ -6,6 +6,17 @@ aula de github 12/06/2023
 
 <b> sesc londrina centro </b>
 
+<hr>
+<hr>
+
+aula de informatica = produçao do README
+
+turma do 2 ano sesc - informatica
+
+<br>
+**github**
+_github_
+
 <!--
 **felipesemmaldade/felipesemmaldade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
