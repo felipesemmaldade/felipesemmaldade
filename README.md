@@ -1,4 +1,10 @@
-### Hi there 👋
+### bem vindo a minha pagina sem maldade!!! 👋
+
+<h2> aluno felipe </h2>
+
+aula de github 12/06/2023
+
+<b> sesc londrina centro </b>
 
 <!--
 **felipesemmaldade/felipesemmaldade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
